@@ -1,0 +1,7 @@
+flutter_icons:
+  image_path: "lib/icon.png" # Het pad naar je nieuwe pictogram
+  android: true
+  ios: true
+  image_path_android: "lib/icon.png" # Het pad naar je nieuwe pictogram voor Android
+  image_path_ios: "lib/icon.png" # Het pad naar je nieuwe pictogram voor iOS
+  adaptive_icon_background: "lib/icon.png" # Optioneel: achtergrondafbeelding voor Android
